@@ -1,0 +1,44 @@
+# Minecraft Education Edition Tutorials
+
+## Step 1: Spawn your animals @showhint
+Today we spawn animals. 
+```blocks
+player.onChat("run", function () {
+// @highlight
+	mobs.spawn(PIG, pos(1, 0, 1))
+})
+```
+
+## Step 2:
+Differenza tra eventi e comandi
+
+
+## Step 3: @unplugged
+Text for introduction
+
+
+## Step 4:
+Text 1
+
+
+```blocks
+player.onChat("hello", function() {
+})
+player.onItemInteracted(IRON_SHOVEL, function() {
+    
+})
+blocks.place(STONE, pos(0, 0, 0))
+```
+
+## Step 5: Show dialog @showdialog
+Here's an introduction screen.
+
+
+
+## Step 6: Run your code
+
+Put some blocks onto the stage
+
+This is really hard
+
+Click the run button
